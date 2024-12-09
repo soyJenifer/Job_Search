@@ -3,6 +3,7 @@
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\api\OfferController;
+use App\Http\Controllers\Api\FeedbackController;
 
 Route::get('/offers', [OfferController::class, 'index'])->name('apindex');
 Route::post('/offers', [OfferController::class, 'store'])->name('apistore');
