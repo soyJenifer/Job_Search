@@ -1,9 +1,9 @@
 <?php
 
 namespace App\Models;
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use App\Models\Feedback;
 use Illuminate\Database\Eloquent\Model;
-
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 
 class Offer extends Model
 {
@@ -15,4 +15,8 @@ class Offer extends Model
         "company" ,
         "status",
     ];
+    public function feedback(){
+
+        return $this->hasMany(Feedback::class);
+    }
 }
