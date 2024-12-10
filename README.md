@@ -6,7 +6,8 @@ I decided to create a website in Laravel to manage locally my job offers with th
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Captura de pantalla 2024-12-10 153038](https://github.com/user-attachments/assets/f0d2e8f4-687d-4a39-8b71-10239aab11a3)
+
 
 
 ## ▶️💻 Installation
@@ -139,6 +140,10 @@ To run tests, run the following command
   php artisan test
 
 ```
+## Diagrams Made
+
+![Captura_de_pantalla_2024-12-10_132314](https://github.com/user-attachments/assets/48bf86cf-03a6-4375-909f-e5984e32132a)
+
 
 ## Contributing
 
