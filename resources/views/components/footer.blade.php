@@ -1,11 +1,8 @@
 <footer>
-  <div class="footer-col">
-    <h4>follow us</h4>
-    <div class="social-links">
-      <a href="#"><i class="fab fa-facebook-f"></i></a>
-      <a href="#"><i class="fab fa-twitter"></i></a>
-      <a href="#"><i class="fab fa-instagram"></i></a>
-      <a href="#"><i class="fab fa-linkedin-in"></i></a>
-    </div>
+  <a class="github" img href="https://github.com/soyJenifer"><img src="./images/github.svg" alt="">
+    <p>GitHub</p>
+  </a>
+  <div class="copyright">
+    © 2024 Copyright
   </div>
 </footer>
