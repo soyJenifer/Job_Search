@@ -1,14 +1,16 @@
+<div align="center">
+    
+# Welcome to my project Job Search! 👽
 
-# 🔛 Welcome to our Job_Search! 👽
+#### I decided to create a website in Laravel to manage locally my job offers with their offer, description, date, and status.
+</div>
 
-I decided to create a website in Laravel to manage locally my job offers with their offer, description, date, and status of the offer.
+![Proyecto Job Search](https://github.com/user-attachments/assets/d365740b-2225-4553-9a09-98a5aa5c0ff3)
 
-
-## Screenshots
-
-![Captura de pantalla 2024-12-10 153038](https://github.com/user-attachments/assets/f0d2e8f4-687d-4a39-8b71-10239aab11a3)
-
-
+>[!IMPORTANT]
+>To learn how to install and also to know how I did this project, it's very important that you read every part of this readme. Thank you for your patience and have a good read.
+>
+---
 
 ## ▶️💻 Installation
 - Clone repository
@@ -142,17 +144,27 @@ To run tests, run the following command
 ```
 ## Diagrams Made
 
-![Captura_de_pantalla_2024-12-10_132314](https://github.com/user-attachments/assets/48bf86cf-03a6-4375-909f-e5984e32132a)
+![Project Diagrams](https://github.com/user-attachments/assets/c042059f-431d-4c9c-a141-f96f08e0c808)
+***
 
+If you want to contact me here's my gmail: jenifermoyano2006@gmail.com
+>[!NOTE]
+>Please understand that i'm still learning, not everything will look or be perfect. Thank you for the attention.
+***
 
-## Contributing
+## 🛠 Languages and tools I used in this project
 
-https://draculatheme.com/
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='PHP' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=white&labelColor=896696&color=896696'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF8400&color=FF8400'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css-100000?style=for-the-badge&logo=css3&logoColor=white&labelColor=079FB0&color=079FB0'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1C662F&color=1C662F'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=FF0000&color=FF0000'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='canva' src='https://img.shields.io/badge/canva-100000?style=for-the-badge&logo=canva&logoColor=white&labelColor=A700FB&color=A700FB'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='xampp' src='https://img.shields.io/badge/xampp-100000?style=for-the-badge&logo=xampp&logoColor=white&labelColor=FF8800&color=FF8800'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='postman' src='https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF0000&color=FF0000'/></a>
+***
 
-
-## 🛠 Tech Stack
-- Languages: Html, Css, Blade
-- Framework: Laravel
-- Server: Xampp, Apache, Nodejs
-- Database: Mysql
-- Others: Composer
+## Thanks for reading!
+Thanks for reading this readme!
+Have a good day or night! 🕴️
