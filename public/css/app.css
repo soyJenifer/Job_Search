@@ -1,9 +1,13 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 header {
     width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
-    background-color: #7d7d7d;
+    background-color: #4c5561;
     font-size: 32px;
     transition: color 0.5s ease;
 }
@@ -16,7 +20,7 @@ footer {
     width: 100%;
     height: 100%;
     align-items: center;
-    background-color: #7d7d7d;
+    background-color: #4c5561;
     font-size: 32px;
 }
 

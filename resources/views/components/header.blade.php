@@ -1,3 +1,3 @@
 <header>
-    Job Search
+    💻 Job Search 💻
 </header>

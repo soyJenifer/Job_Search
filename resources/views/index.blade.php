@@ -21,7 +21,7 @@
           <td>{{ $offer->company }}</td>
           <td>
           @if ($offer->status===1)
-            Activa 🔛
+            Activa ✅
           @else
             Inactiva ⛔
           @endif
@@ -32,3 +32,4 @@
     </tbody>
   </table>
 @endsection
+
